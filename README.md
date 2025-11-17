@@ -34,7 +34,5 @@ A complete AI-powered inventory optimization system built with:
 - Email alerts
 - WhatsApp alerts
 
----
-
 ## How to Run Backend
 
